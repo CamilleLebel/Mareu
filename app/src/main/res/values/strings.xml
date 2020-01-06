@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mareu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_topic_hour_room">Meeting A - 15h00 - Mario</string>
+    <string name="text_participant_mail">perso@outlook.fr</string>
+
+    <!-- JAVA file -->
+
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- MeetingFragment.java -->
+    <string name="information_delete_meeting">Delete of meeting: %s</string>
+
+    <!-- MainActivity.java -->
+    <string name="none_of_choice_validated">None of choice validated</string>
+    <string name="information_creation_of_meeting">Creation of meeting: %s</string>
+
+    <!-- CreationActivity.java -->
+    <string name="creation_of_meeting">Creation of meeting</string>
+    <string name="question_for_creation_of_meeting">Are you sure to create this meeting?\n(%s)</string>
+    <string name="error_topic_meeting_creation">Error: No topic</string>
+    <string name="error_member_meeting_creation">Error: No member</string>
+
+    <!-- FilterActivity.java -->
+    <string name="creation_of_hours_filter">Creation of hours filter</string>
+    <string name="question_for_creation_of_hours_filter">Are you sure to create this filter?\n(From %s to %s)</string>
+    <string name="creation_of_room_filter">Creation of room filter</string>
+    <string name="question_for_creation_of_room_filter">Are you sure to create this filter?\n(%s)</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="elevation_toolbar">4dp</dimen>
+    <dimen name="size_image_view">50dp</dimen>
+
+    <dimen name="text_size_item">18sp</dimen>
+    <dimen name="text_size_sub_item">14sp</dimen>
+
+    <!-- PADDING -->
+    <dimen name="padding_huge">56dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_little">8dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+
+</resources>
